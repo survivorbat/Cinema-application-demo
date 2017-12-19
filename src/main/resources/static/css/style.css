@@ -1,0 +1,123 @@
+body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+    background-image: url('../img/background.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.center {
+    text-align:center;
+}
+
+.voorstelling_cursief {
+    font-style:italic;
+    font-size:0.8em !important;
+}
+
+.header-title {
+    color:white;
+    font-weight:bolder;
+}
+
+.voorstelling_lijst {
+    list-style-type:none;
+    margin-left:0px;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 0px;
+    padding: 0;
+}
+
+.voorstelling_block {
+    background: rgb(40,40,40);
+    background: -moz-linear-gradient(-45deg, rgba(40,40,40,1) 0%, rgba(0,0,0,1) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(40,40,40,1) 0%,rgba(0,0,0,1) 100%);
+    background: linear-gradient(135deg, rgba(40,40,40,1) 0%,rgba(0,0,0,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#282828', endColorstr='#000000',GradientType=1 );
+    border-color: rgb(200, 200, 200);
+    border-width: 1px;
+    border-style:solid;
+    color:white;
+    width:100%;
+    margin-bottom:2em;
+    padding:1em;
+    border-radius:5px;
+}
+
+.voorstelling_block_hover:hover {
+    border-color: rgb(240, 240, 240);
+    border-width: 1px;
+    background: rgb(125,126,125);
+    background: -moz-linear-gradient(-45deg, rgba(125,126,125,1) 0%, rgba(14,14,14,1) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%);
+    background: linear-gradient(135deg, rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7d7e7d', endColorstr='#0e0e0e',GradientType=1 );
+}
+
+.voorstelling_titel {
+    font-size:1.2em;
+    font-weight:bolder;
+}
+
+.voorstelling_desc {
+    font-size:0.9em;
+    font-color:rgb(200,200,200);
+}
+
+a, a:link, a:visited, a:hover {
+    text-decoration: none;
+    color:white !important;
+}
+
+.selectSeat {
+    border-style:Solid;
+    border-color:rgb(100,100,100);
+    border-width:1px;
+    margin-left:auto;
+    margin-right:auto;
+    table-layout:fixed;
+    width:100%;
+}
+
+.selectSeat td {
+    border-color:rgb(100,100,100);
+    border-style:solid;
+    text-align:center;
+    border-width:1px;
+    padding:5px;
+}
+
+.selectSeat input {
+    background-color:rgba(0,0,0,0);
+    border-color:white;
+    border-width:1px;
+    border-style:solid;
+}
+
+.kaart_block {
+    background-color:white;
+    border-color: black;
+    border-width: 1px;
+    border-style:solid;
+    width:100%;
+    margin-bottom:2em;
+    padding:1em;
+}
+
+.printbutton {
+    margin:10px;
+}
+
+@media print {
+    .printbutton {
+        display:none;
+    }
+}
+
+input, select {
+    color:black !important;
+}

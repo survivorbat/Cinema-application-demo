@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://thymeleaf.org">
+    <head th:replace="fragmenten/head"/>
+    <body>
+    <div class="row">
+        <div class="container center">
+            <h1 style="color:white">De Spring Bioscoop</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="container">
+            <div class="col-md-3 col-md-push-9 ">
+                <div class="voorstelling_block visible-sm visible-md visible-lg">
+                    <p class="voorstelling_titel">De bioscoop</p>
+                    <p class="voorstelling_desc">Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem.</p>
+                </div>
+                <div class="voorstelling_block">
+                    <p class="voorstelling_titel">Voorstellinglijst verfijnen:</p>
+                    <form>
+                        <fieldset class="form-group">
+                            <p class="voorstelling_desc">
+                                <input type="checkbox" id="filter_titeltick" onchange="doFilter()"/>
+                                Trefwoord
+                            </p>
+                            <input type="text" id="filter_titel" class="form-control input-sm" onkeyup="doFilter()" onchange="doFilter()"/>
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <p class="voorstelling_desc">
+                                <input type="checkbox" id="filter_regisseurtick" onchange="doFilter()"/>
+                                Regisseur
+                            </p>
+                            <input type="text" id="filter_regisseur" class="form-control input-sm" onkeyup="doFilter()" onchange="doFilter()"/>
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <p class="voorstelling_desc">
+                                <input type="checkbox" id="filter_locatietick" onchange="doFilter()"/>
+                                Locatie
+                            </p>
+                            <select id="filter_locatie" class="form-control input-sm" style="color:black" onclick="doFilter()" onkeyup="doFilter()" onchange="doFilter()">
+                                <option/>
+                                <option th:each="i : ${locaties}" th:text="${i.naam}" th:value="${i.naam}"/>
+                            </select>
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <p class="voorstelling_desc">
+                                <input type="checkbox" id="filter_tijdtick" onchange="doFilter()"/>
+                                Tijd
+                            </p>
+                            <label for="filter_van">Van </label>
+                            <select id="filter_van" onkeyup="doFilter()" onchange="doFilter()">
+                                <option th:each="i : ${#numbers.sequence(0, 23)}" th:value="${i}" th:text="${i+':00'}" class="form-control input-sm"/>
+                            </select>
+                            <label for="filter_tot">Tot </label>
+                            <select id="filter_tot" onkeyup="doFilter()" onchange="doFilter()">
+                                <option th:each="i : ${#numbers.sequence(23, 0, -1)}" th:value="${i}" th:text="${i+':00'}" class="form-control input-sm"/>
+                            </select>
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <p class="voorstelling_desc">
+                                <input type="checkbox" id="filter_datumtick" onchange="doFilter()"/>
+                                Datum
+                            </p>
+                            <label for="filter_datumvan">Van</label>
+                            <input type="date" id="filter_datumvan" class="form-control input-sm" onkeyup="doFilter()" onchange="doFilter()" onclick="doFilter()"/>
+                            <label for="filter_datumtot">Tot</label>
+                            <input type="date" id="filter_datumtot" class="form-control input-sm" onkeyup="doFilter()" onchange="doFilter()" onclick="doFilter()"/>
+                        </fieldset>
+                        <fieldset class="form-group">
+                            <button type="button" class="btn btn-info" onclick="doFilter()">Zoeken</button>
+                        </fieldset>
+                    </form>
+                </div>
+            </div>
+            <div class="col-md-9 col-md-pull-3">
+                <ul class="voorstelling_lijst">
+                    <li th:each="i : ${voorstellingen}" class="voorstelling_block voorstelling_block_hover voorstelling" th:attr="titel=${i.film.titel},regisseur=${i.film.regisseur},tarief=${i.bedrag},datum=${i.datum},tijd=${i.tijd},desc=${i.film.beschrijving},locatie=${i.zaal.locatie}">
+                        <a th:href="'/kaarten/bestellen?voorstellingid='+${i.voorstellingID}">
+                            <div class="row">
+                                <div class="col-sm-8">
+                                    <p class="voorstelling_titel" th:text="${i.film.titel + ' ('+i.film.jaar+')'}"/>
+                                    <p class="voorstelling_desc" th:text="${i.film.regisseur}"/>
+                                    <p class="voorstelling_cursief voorstelling_desc" th:text="${i.film.beschrijving}"/>
+                                    <p class="voorstelling-desc" th:text="${i.film.tijdsduur}+' minuten'"/>
+                                </div>
+                                <div class="col-sm-2 visible-sm visible-md visible-lg">
+                                    <p class="voorstelling_titel">Zaal:</p>
+                                    <p class="voorstelling_desc" th:text="${i.zaal.zaalID}"/>
+                                    <p class="voorstelling_titel">Zitplaatsen:</p>
+                                    <p class="voorstelling_desc" th:text="${(i.zaal.zitPlaatsen-i.zitplaatsenInGebruik)+' / '+i.zaal.zitPlaatsen}"/>
+                                </div>
+                                <div class="col-sm-2 visible-sm visible-md visible-lg">
+                                    <p class="voorstelling_titel">Data:</p>
+                                    <p class="voorstelling_desc" th:text="${i.tijd}"/>
+                                    <p class="voorstelling_desc" th:text="${i.datum}"/>
+                                    <p class="voorstelling_titel">Tarief:</p>
+                                    <p class="voorstelling_desc" th:text="${'€'+i.bedrag}"/>
+                                </div>
+                                <div class="col-sm-2 visible-xs">
+                                    <p class="voorstelling_desc" th:text="${i.tijd+', '+i.datum+' in '+i.zaal.zaalID}"/>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div th:replace="fragmenten/scripts"/>
+    <script src="/js/filter.js"></script>
+    </body>
+</html>

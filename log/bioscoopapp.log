@@ -1,0 +1,838 @@
+2017-11-22 11:13:19,045  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,0,12,1025056
+2017-11-22 11:13:19,045  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,3,6,1142781
+2017-11-22 11:13:19,045  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,1,4,1277437
+2017-11-22 11:13:19,045  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,7,8,611855
+2017-11-22 11:13:19,045  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,4,17,1312473
+2017-11-22 11:13:19,045  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,12,14,730705
+2017-11-22 11:13:19,045  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,2,7,913515
+2017-11-22 11:13:19,123  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,2,9,1898348
+2017-11-22 11:13:19,154  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,5,10,1337054
+2017-11-22 11:13:19,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,1,14,1483932
+2017-11-22 11:13:19,217  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,5,9,544397
+2017-11-22 11:13:19,217  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,2,4,413421
+2017-11-22 11:13:19,217  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,1,11,1870279
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,5,5,88831
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,5,0,108939
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,9,5,315074
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,1,5,789325
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,1,1,573498
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,13,15,85551
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 240,0,1,1086139
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,2,8,1654088
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,1,1,1800237
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,10,4,137312
+2017-11-22 11:13:19,232  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 237,0,2,1621321
+2017-11-22 11:13:19,248  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,8,9,645553
+2017-11-22 11:13:19,248  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,2,36,381145
+2017-11-22 11:13:19,248  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,5,2,293799
+2017-11-22 11:13:19,248  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,3,6,443259
+2017-11-22 11:13:19,248  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,3,2,502816
+2017-11-22 11:13:19,248 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:19,248  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,10,8,1553069
+2017-11-22 11:13:19,248  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,10,2,370820
+2017-11-22 11:13:19,248  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,0,10,581455
+2017-11-22 11:13:19,264 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:19,264  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,3,6,167610
+2017-11-22 11:13:19,998  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,1,1,1866418
+2017-11-22 11:13:19,998  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,2,34,445076
+2017-11-22 11:13:19,998 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:19,998  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,8,16,952118
+2017-11-22 11:13:19,998  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,4,13,356344
+2017-11-22 11:13:19,998  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,8,12,952681
+2017-11-22 11:13:19,998 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:19,998  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,3,1,971562
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,1,29,394596
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,7,12,1479143
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,2,37,1480285
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,4,2,623807
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,0,0,542504
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,10,14,1555014
+2017-11-22 11:13:20,076 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,4,2,380606
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,2,5,870805
+2017-11-22 11:13:20,076  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,1,1,592221
+2017-11-22 11:13:20,092  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,3,2,1047346
+2017-11-22 11:13:20,092  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,9,8,910349
+2017-11-22 11:13:20,092 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,092  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,0,11,887207
+2017-11-22 11:13:20,092  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,8,18,1931064
+2017-11-22 11:13:20,092  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,1,0,588215
+2017-11-22 11:13:20,092  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,2,17,1299656
+2017-11-22 11:13:20,092 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,092  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,12,13,1678747
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,2,12,1662691
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 237,1,0,653392
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,14,5,36946
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,3,9,556444
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,1,12,1283803
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,3,8,1295363
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,13,11,877252
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,6,11,1642139
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,7,24,76806
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,6,18,314960
+2017-11-22 11:13:20,107  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,3,7,226058
+2017-11-22 11:13:20,123  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,6,1,310682
+2017-11-22 11:13:20,123 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,123  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,2,21,1355080
+2017-11-22 11:13:20,123  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,4,12,1178556
+2017-11-22 11:13:20,123 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,123  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,8,16,339000
+2017-11-22 11:13:20,123  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,6,3,1280155
+2017-11-22 11:13:20,123  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,0,0,854931
+2017-11-22 11:13:20,139  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,7,5,1762230
+2017-11-22 11:13:20,139  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,8,4,1285809
+2017-11-22 11:13:20,139  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,0,3,1928347
+2017-11-22 11:13:20,139  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,4,16,1243751
+2017-11-22 11:13:20,139 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,139  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,13,13,1069887
+2017-11-22 11:13:20,139 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,139  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,1,5,42674
+2017-11-22 11:13:20,139  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,7,14,1622515
+2017-11-22 11:13:20,154  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,0,1,1821291
+2017-11-22 11:13:20,154  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,2,2,1638914
+2017-11-22 11:13:20,154  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,11,23,1748234
+2017-11-22 11:13:20,154 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,154 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,154  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,5,3,978474
+2017-11-22 11:13:20,154  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,3,6,1535657
+2017-11-22 11:13:20,154  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,1,7,1940694
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,4,8,949984
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,3,0,1622783
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,5,8,1471336
+2017-11-22 11:13:20,170 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,2,7,1391962
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 241,1,2,1482612
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,1,3,373439
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,0,10,400867
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,6,8,1472979
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,0,14,567703
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,10,4,88773
+2017-11-22 11:13:20,170  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,0,23,542479
+2017-11-22 11:13:20,186  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,8,10,1258229
+2017-11-22 11:13:20,186  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,0,1,1666971
+2017-11-22 11:13:20,186 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,186  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,8,7,1914526
+2017-11-22 11:13:20,186  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,1,5,1916041
+2017-11-22 11:13:20,186 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,186  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,1,13,1171686
+2017-11-22 11:13:20,186  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,14,6,1214066
+2017-11-22 11:13:20,186  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,8,4,761461
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 240,1,0,1110947
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,13,17,1722321
+2017-11-22 11:13:20,201 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,201 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 241,0,1,322600
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,12,3,1264910
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,10,9,503433
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,2,0,697886
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,1,2,1594639
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,7,18,1431638
+2017-11-22 11:13:20,201  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,7,9,62509
+2017-11-22 11:13:20,217  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,1,13,881866
+2017-11-22 11:13:20,217  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,13,1,426665
+2017-11-22 11:13:20,217  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,5,13,1171841
+2017-11-22 11:13:20,217  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 241,1,0,1291608
+2017-11-22 11:13:20,217  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,7,13,152370
+2017-11-22 11:13:20,348  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,14,0,496101
+2017-11-22 11:13:20,424  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,6,6,1371016
+2017-11-22 11:13:20,459  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,14,10,1586826
+2017-11-22 11:13:20,459  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,4,11,1573470
+2017-11-22 11:13:20,459  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,4,7,146388
+2017-11-22 11:13:20,553 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,568 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,568  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,8,7,378231
+2017-11-22 11:13:20,568  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,8,8,1499303
+2017-11-22 11:13:20,568  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,10,12,1296427
+2017-11-22 11:13:20,568  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,0,5,1555876
+2017-11-22 11:13:20,568  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,2,4,1816005
+2017-11-22 11:13:20,568  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 243,1,0,418222
+2017-11-22 11:13:20,568  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,3,3,801113
+2017-11-22 11:13:20,584  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 240,1,1,756525
+2017-11-22 11:13:20,584  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,12,6,1384496
+2017-11-22 11:13:20,584  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,3,1,1969114
+2017-11-22 11:13:20,584  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,5,19,690820
+2017-11-22 11:13:20,600  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,5,29,331007
+2017-11-22 11:13:20,600  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,3,12,1132097
+2017-11-22 11:13:20,600  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,5,9,962363
+2017-11-22 11:13:20,600  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,10,6,1435078
+2017-11-22 11:13:20,600 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,600 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,600  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,6,22,800513
+2017-11-22 11:13:20,600  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,7,8,1783254
+2017-11-22 11:13:20,600  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,4,1,1432865
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,0,5,1230361
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,1,9,22270
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,2,4,1016206
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,4,14,640657
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,5,2,937487
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,3,14,1771298
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,2,3,1129190
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,0,7,978444
+2017-11-22 11:13:20,615  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,7,0,1690894
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,2,0,929533
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,13,0,616054
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,7,6,178483
+2017-11-22 11:13:20,631 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,13,11,1048895
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,4,14,977398
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,6,2,1642309
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,1,0,1036389
+2017-11-22 11:13:20,631 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,2,0,979008
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,11,2,1475748
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,10,2,1733871
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,5,2,4445
+2017-11-22 11:13:20,631  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,8,6,877900
+2017-11-22 11:13:20,647  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,0,9,1974992
+2017-11-22 11:13:20,647  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,8,24,865251
+2017-11-22 11:13:20,647  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,7,28,836026
+2017-11-22 11:13:20,647  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,3,14,1063987
+2017-11-22 11:13:20,647 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,678  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,4,20,332650
+2017-11-22 11:13:20,693  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,0,3,311808
+2017-11-22 11:13:20,693  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,3,13,560172
+2017-11-22 11:13:20,693 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,693  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,8,6,206796
+2017-11-22 11:13:20,693  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,4,0,1345537
+2017-11-22 11:13:20,693 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,756  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,7,4,651143
+2017-11-22 11:13:20,756  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,5,39,1727601
+2017-11-22 11:13:20,756  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,4,9,1902892
+2017-11-22 11:13:20,756 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:20,772  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,2,8,1131883
+2017-11-22 11:13:20,772  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,0,4,1585634
+2017-11-22 11:13:20,772  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,5,18,1847058
+2017-11-22 11:13:20,772  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,4,3,524445
+2017-11-22 11:13:20,772  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,11,12,1177343
+2017-11-22 11:13:20,772  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,5,38,433352
+2017-11-22 11:13:20,772  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,2,23,1462628
+2017-11-22 11:13:20,772  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,6,34,1070870
+2017-11-22 11:13:20,772 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,2,8,275435
+2017-11-22 11:13:22,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,4,1,211698
+2017-11-22 11:13:22,386 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,9,30,126040
+2017-11-22 11:13:22,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,5,0,461619
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,2,13,558253
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,5,12,552617
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,4,8,264829
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,0,5,614698
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,9,3,189221
+2017-11-22 11:13:22,401 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,0,5,427924
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,2,12,1755767
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,4,9,693771
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,11,8,1137749
+2017-11-22 11:13:22,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,5,35,1234781
+2017-11-22 11:13:22,401 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,417  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,7,5,287407
+2017-11-22 11:13:22,417  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,8,11,796550
+2017-11-22 11:13:22,511  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,4,8,496313
+2017-11-22 11:13:22,511  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,4,13,1463639
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,7,13,449666
+2017-11-22 11:13:22,526 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,2,2,1285799
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,1,6,1804507
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,2,14,189332
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,8,12,1927672
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 240,1,2,1913800
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,14,17,1594263
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,3,14,129558
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,4,12,547210
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,7,24,827358
+2017-11-22 11:13:22,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,9,15,1922388
+2017-11-22 11:13:22,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,12,3,1417687
+2017-11-22 11:13:22,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,2,0,1326957
+2017-11-22 11:13:22,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,11,4,1415880
+2017-11-22 11:13:22,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,2,30,1382011
+2017-11-22 11:13:22,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,1,6,1910346
+2017-11-22 11:13:22,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,9,12,1432218
+2017-11-22 11:13:22,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,0,2,67591
+2017-11-22 11:13:22,558 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,558 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,7,11,1376681
+2017-11-22 11:13:22,558 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,6,1,34632
+2017-11-22 11:13:22,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,7,4,1113763
+2017-11-22 11:13:22,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,2,18,53075
+2017-11-22 11:13:22,573  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,3,36,1544742
+2017-11-22 11:13:22,573 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,573  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,8,4,1060875
+2017-11-22 11:13:22,573 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,573 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,589 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,589 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,1,7,1716474
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,6,0,277439
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,0,10,142456
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,8,8,588674
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,8,1,649992
+2017-11-22 11:13:22,589 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,3,6,1043499
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,1,10,1982547
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,3,11,1802066
+2017-11-22 11:13:22,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,3,5,1144789
+2017-11-22 11:13:22,604  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,4,0,264483
+2017-11-22 11:13:22,604  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,0,13,537449
+2017-11-22 11:13:22,604  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,1,2,1927346
+2017-11-22 11:13:22,604  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,2,12,1825909
+2017-11-22 11:13:22,604 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,604  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,2,24,646067
+2017-11-22 11:13:22,604  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,2,2,241951
+2017-11-22 11:13:22,604  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,9,6,532462
+2017-11-22 11:13:22,604  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,8,9,1643172
+2017-11-22 11:13:22,620  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,9,29,5186
+2017-11-22 11:13:22,620  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,7,7,906163
+2017-11-22 11:13:22,620  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,1,7,784224
+2017-11-22 11:13:22,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,6,2,814174
+2017-11-22 11:13:22,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,8,1,1740999
+2017-11-22 11:13:22,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,13,6,950310
+2017-11-22 11:13:22,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,3,10,110476
+2017-11-22 11:13:22,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,4,9,183615
+2017-11-22 11:13:22,808 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,3,5,1768272
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,9,21,1841106
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,7,12,1902384
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,13,7,1340948
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,8,0,846890
+2017-11-22 11:13:22,823 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,3,18,1849529
+2017-11-22 11:13:22,823 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,1,15,564812
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,9,1,229200
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,3,12,1179651
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,10,12,1447070
+2017-11-22 11:13:22,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,8,9,732527
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,1,1,111721
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,0,4,14037
+2017-11-22 11:13:22,839 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,9,6,670955
+2017-11-22 11:13:22,839 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,839 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,4,14,1474280
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,11,18,1372986
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,8,14,1425072
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,1,24,199512
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,9,0,1716083
+2017-11-22 11:13:22,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,8,15,836210
+2017-11-22 11:13:22,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,12,2,451456
+2017-11-22 11:13:22,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,9,0,1249337
+2017-11-22 11:13:22,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,0,1,662648
+2017-11-22 11:13:22,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,0,1,336717
+2017-11-22 11:13:22,854 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,2,16,1810564
+2017-11-22 11:13:22,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,9,14,1734342
+2017-11-22 11:13:22,854 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:22,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,0,14,1696698
+2017-11-22 11:13:23,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,7,2,1080612
+2017-11-22 11:13:23,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,1,8,1606736
+2017-11-22 11:13:23,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,2,0,1589998
+2017-11-22 11:13:23,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,7,35,1285381
+2017-11-22 11:13:23,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,9,39,223391
+2017-11-22 11:13:23,276  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,1,16,607397
+2017-11-22 11:13:23,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,4,3,56389
+2017-11-22 11:13:23,323 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,323 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,573  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,6,10,193781
+2017-11-22 11:13:23,573  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,5,7,813281
+2017-11-22 11:13:23,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,5,8,1095065
+2017-11-22 11:13:23,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,2,9,450029
+2017-11-22 11:13:23,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,11,8,1615121
+2017-11-22 11:13:23,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,4,11,1277977
+2017-11-22 11:13:23,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,8,0,541188
+2017-11-22 11:13:23,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,6,17,1552111
+2017-11-22 11:13:23,589  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,4,14,659818
+2017-11-22 11:13:23,745  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,4,2,442216
+2017-11-22 11:13:23,745  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,6,1,43600
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,5,7,1544496
+2017-11-22 11:13:23,761 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,761 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,9,15,192797
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,1,11,1695703
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,9,0,669109
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,9,18,109769
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,6,3,93356
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,12,7,1616558
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,8,8,875815
+2017-11-22 11:13:23,761  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,4,18,1159020
+2017-11-22 11:13:23,776 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,776  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,5,6,1857180
+2017-11-22 11:13:23,776  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,10,0,1380696
+2017-11-22 11:13:23,776  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,3,4,1584071
+2017-11-22 11:13:23,776  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,1,1,690738
+2017-11-22 11:13:23,776 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,776  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,10,15,112088
+2017-11-22 11:13:23,776  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,2,0,1775858
+2017-11-22 11:13:23,776  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,3,5,1011658
+2017-11-22 11:13:23,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,0,2,1218049
+2017-11-22 11:13:23,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,0,6,570968
+2017-11-22 11:13:23,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,11,1,1238183
+2017-11-22 11:13:23,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,1,0,277734
+2017-11-22 11:13:23,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,2,0,526952
+2017-11-22 11:13:23,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,0,25,966696
+2017-11-22 11:13:23,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,6,10,92732
+2017-11-22 11:13:23,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,7,1,520934
+2017-11-22 11:13:23,792 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,792 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,3,20,1466539
+2017-11-22 11:13:23,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,4,0,4044
+2017-11-22 11:13:23,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,0,4,1843629
+2017-11-22 11:13:23,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,7,2,275995
+2017-11-22 11:13:23,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,5,3,686605
+2017-11-22 11:13:23,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,12,4,697270
+2017-11-22 11:13:23,855  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,2,1,1269307
+2017-11-22 11:13:23,855  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,7,1,621055
+2017-11-22 11:13:23,855  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,2,14,149657
+2017-11-22 11:13:23,855  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,7,13,1185383
+2017-11-22 11:13:23,855  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,0,3,1592380
+2017-11-22 11:13:23,855  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,0,7,614964
+2017-11-22 11:13:23,855 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,855  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,2,8,569534
+2017-11-22 11:13:23,855 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,1,11,645805
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,0,7,614580
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,3,13,1413308
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,3,9,1438937
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,10,16,694905
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,6,5,651988
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,6,6,333314
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,10,1,1420454
+2017-11-22 11:13:23,870 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,5,12,29121
+2017-11-22 11:13:23,901  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,1,26,411215
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,6,8,1983688
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,1,9,1688044
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,3,4,1643475
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,2,2,1638533
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,7,13,1002280
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,5,4,300884
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,6,9,422659
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,7,1,1123620
+2017-11-22 11:13:23,917 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,6,16,57362
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,9,0,112617
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,0,14,1785036
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,9,8,504547
+2017-11-22 11:13:23,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,8,6,1849173
+2017-11-22 11:13:23,933 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,0,1,35262
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,6,0,2222
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,0,11,1149806
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,6,8,1435482
+2017-11-22 11:13:23,933 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,2,12,1537561
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,8,23,1584078
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,8,15,239414
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,7,9,658083
+2017-11-22 11:13:23,933  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,8,10,512045
+2017-11-22 11:13:23,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,5,19,262022
+2017-11-22 11:13:23,948 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,948 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,8,1,1062416
+2017-11-22 11:13:23,948 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,4,0,1661232
+2017-11-22 11:13:23,964 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,2,11,1936013
+2017-11-22 11:13:23,964 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 234,5,13,1300318
+2017-11-22 11:13:23,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,6,14,1224672
+2017-11-22 11:13:23,964 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,964 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,6,13,872303
+2017-11-22 11:13:23,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,7,23,1304153
+2017-11-22 11:13:23,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,0,13,174100
+2017-11-22 11:13:23,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,11,14,1229301
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,8,2,200954
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,2,11,1643615
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,9,3,913999
+2017-11-22 11:13:23,979 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,9,21,1960887
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,3,1,1650482
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,4,6,107013
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,10,8,1653588
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,4,14,1349888
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,8,37,558773
+2017-11-22 11:13:23,979 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:23,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,7,7,394556
+2017-11-22 11:13:23,995  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,4,1,1930445
+2017-11-22 11:13:24,011 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,12,6,1448869
+2017-11-22 11:13:24,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,7,28,714751
+2017-11-22 11:13:24,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,9,14,277814
+2017-11-22 11:13:24,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,7,7,949350
+2017-11-22 11:13:24,011 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,7,0,997197
+2017-11-22 11:13:24,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,8,4,1590003
+2017-11-22 11:13:24,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,3,2,1908727
+2017-11-22 11:13:24,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,0,11,1018166
+2017-11-22 11:13:24,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,5,2,506872
+2017-11-22 11:13:24,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,7,21,1351390
+2017-11-22 11:13:24,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,5,10,1551736
+2017-11-22 11:13:24,026 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,5,14,995696
+2017-11-22 11:13:24,042  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,3,4,1071087
+2017-11-22 11:13:24,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,7,8,866410
+2017-11-22 11:13:24,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,0,0,1038078
+2017-11-22 11:13:24,073  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,5,8,1960644
+2017-11-22 11:13:24,073 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,073 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,089  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,3,6,1064576
+2017-11-22 11:13:24,089  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,6,9,1878183
+2017-11-22 11:13:24,089  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,14,8,1131269
+2017-11-22 11:13:24,089  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,3,6,1024707
+2017-11-22 11:13:24,089  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,7,5,1207873
+2017-11-22 11:13:24,104  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,6,1,674535
+2017-11-22 11:13:24,104  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,0,2,1336090
+2017-11-22 11:13:24,104  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,5,2,1439819
+2017-11-22 11:13:24,104  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,8,11,726441
+2017-11-22 11:13:24,104  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,3,0,1627638
+2017-11-22 11:13:24,104  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,8,7,633335
+2017-11-22 11:13:24,104 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,104  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,7,14,352705
+2017-11-22 11:13:24,104  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,1,5,734821
+2017-11-22 11:13:24,104 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,120  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,7,8,1851028
+2017-11-22 11:13:24,120  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,0,3,1107250
+2017-11-22 11:13:24,120 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,120  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,4,14,7307
+2017-11-22 11:13:24,120 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,1,37,491716
+2017-11-22 11:13:24,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,9,1,1880769
+2017-11-22 11:13:24,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,9,1,1144403
+2017-11-22 11:13:24,136  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,4,8,684492
+2017-11-22 11:13:24,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,2,1,38496
+2017-11-22 11:13:24,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,6,8,319088
+2017-11-22 11:13:24,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,1,8,1593732
+2017-11-22 11:13:24,401 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,2,11,739213
+2017-11-22 11:13:24,401 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,417  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,8,1,746808
+2017-11-22 11:13:24,417  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,4,20,338425
+2017-11-22 11:13:24,417 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,417 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,417  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,10,1,1584295
+2017-11-22 11:13:24,417  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,0,11,1086576
+2017-11-22 11:13:24,417  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,2,12,1238625
+2017-11-22 11:13:24,433  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,5,0,921126
+2017-11-22 11:13:24,433  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,11,19,260137
+2017-11-22 11:13:24,433  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,0,1,1879197
+2017-11-22 11:13:24,433  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,5,4,1227704
+2017-11-22 11:13:24,433  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,13,14,1617533
+2017-11-22 11:13:24,433 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,433 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,433  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,7,1,544002
+2017-11-22 11:13:24,433 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,448 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,448  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,1,7,1638717
+2017-11-22 11:13:24,448 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,495  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,11,7,823173
+2017-11-22 11:13:24,495  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,2,12,303096
+2017-11-22 11:13:24,495  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,7,1,350609
+2017-11-22 11:13:24,495 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,511 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,511  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,1,14,646460
+2017-11-22 11:13:24,511  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,1,11,879837
+2017-11-22 11:13:24,511  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,1,6,1383632
+2017-11-22 11:13:24,511 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,511 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,511  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,0,1,1265186
+2017-11-22 11:13:24,526 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,6,14,1336233
+2017-11-22 11:13:24,526 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,13,13,467841
+2017-11-22 11:13:24,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,8,10,337583
+2017-11-22 11:13:24,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,6,29,997290
+2017-11-22 11:13:24,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,9,0,459294
+2017-11-22 11:13:24,526 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,526 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,526  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,1,4,1661842
+2017-11-22 11:13:24,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,11,1,1871020
+2017-11-22 11:13:24,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,1,6,355244
+2017-11-22 11:13:24,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,5,12,1878219
+2017-11-22 11:13:24,542 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,8,10,1592074
+2017-11-22 11:13:24,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,14,2,1439450
+2017-11-22 11:13:24,542  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,12,11,1087464
+2017-11-22 11:13:24,542 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,558 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,4,4,1876451
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,12,11,272230
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,2,2,1627571
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,5,11,239673
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,1,4,1738633
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,4,17,736525
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,0,8,577113
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,5,18,1101977
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,9,4,855722
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,4,8,1050694
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,7,8,1152471
+2017-11-22 11:13:24,558  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,10,1,994668
+2017-11-22 11:13:24,573  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,1,2,624969
+2017-11-22 11:13:24,776  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,1,1,781976
+2017-11-22 11:13:24,776 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,6,23,237129
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,3,8,172165
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,0,0,688686
+2017-11-22 11:13:24,792 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,2,5,1080553
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,3,11,341663
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,12,24,1001550
+2017-11-22 11:13:24,792 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,3,0,1524004
+2017-11-22 11:13:24,792 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,3,4,1443298
+2017-11-22 11:13:24,792  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,9,0,449776
+2017-11-22 11:13:24,808 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,5,19,1440015
+2017-11-22 11:13:24,808 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,808 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,808 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,808  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,6,0,647302
+2017-11-22 11:13:24,823 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,823 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,2,13,1576910
+2017-11-22 11:13:24,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,4,11,1865629
+2017-11-22 11:13:24,823  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,1,39,1532872
+2017-11-22 11:13:24,839 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,3,13,1625195
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,2,2,1805364
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,6,9,1711680
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,1,4,1877565
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,4,11,983231
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,5,11,630732
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,7,9,1416341
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,2,11,132800
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,3,2,621024
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,2,1,693894
+2017-11-22 11:13:24,839  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,6,0,488689
+2017-11-22 11:13:24,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,0,1,1608160
+2017-11-22 11:13:24,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,1,1,1549832
+2017-11-22 11:13:24,854 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,854 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,3,4,185455
+2017-11-22 11:13:24,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,7,1,256784
+2017-11-22 11:13:24,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,8,6,1584128
+2017-11-22 11:13:24,854 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,2,11,1372253
+2017-11-22 11:13:24,854  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,2,11,1914992
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,8,11,1933985
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,2,26,420129
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,0,7,1155385
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,4,3,719039
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,5,8,1404069
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,6,3,67628
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,8,36,562486
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,4,2,664760
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,7,9,387406
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,13,2,472168
+2017-11-22 11:13:24,870 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,8,1,1276338
+2017-11-22 11:13:24,870  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,14,27,1084410
+2017-11-22 11:13:24,886  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,0,11,376382
+2017-11-22 11:13:24,886  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,5,11,1136879
+2017-11-22 11:13:24,886 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,886 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,886  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,8,0,1240118
+2017-11-22 11:13:24,901  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,5,7,1444782
+2017-11-22 11:13:24,901 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,901  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,9,24,1845123
+2017-11-22 11:13:24,901  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,8,9,19832
+2017-11-22 11:13:24,901 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,901  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,12,2,1338877
+2017-11-22 11:13:24,901 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,901  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,7,9,56654
+2017-11-22 11:13:24,901  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,4,3,1026912
+2017-11-22 11:13:24,917 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,917 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,917 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,4,5,1880469
+2017-11-22 11:13:24,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,1,13,693633
+2017-11-22 11:13:24,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,11,8,851343
+2017-11-22 11:13:24,917 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,917  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,4,15,376254
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,9,5,1064005
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,3,11,1885377
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,8,8,1327221
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,6,9,207498
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,5,2,1035766
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,12,0,1497371
+2017-11-22 11:13:24,948 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,0,11,784202
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,4,26,1268589
+2017-11-22 11:13:24,948  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,4,7,676093
+2017-11-22 11:13:24,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,2,6,599361
+2017-11-22 11:13:24,964 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,7,0,1017249
+2017-11-22 11:13:24,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,2,2,107753
+2017-11-22 11:13:24,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,10,20,650491
+2017-11-22 11:13:24,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,0,11,1790856
+2017-11-22 11:13:24,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,5,2,112684
+2017-11-22 11:13:24,964 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,964  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,0,2,1337284
+2017-11-22 11:13:24,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,10,0,789320
+2017-11-22 11:13:24,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,0,5,463685
+2017-11-22 11:13:24,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,4,26,531068
+2017-11-22 11:13:24,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,3,9,242660
+2017-11-22 11:13:24,979 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,8,11,1530694
+2017-11-22 11:13:24,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 212,7,9,1752645
+2017-11-22 11:13:24,979 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:24,979  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,2,0,1406235
+2017-11-22 11:13:24,979 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,6,1,459481
+2017-11-22 11:13:25,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,8,3,878315
+2017-11-22 11:13:25,011 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,6,7,1884928
+2017-11-22 11:13:25,011  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,8,5,1482713
+2017-11-22 11:13:25,026 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,4,13,1335402
+2017-11-22 11:13:25,026 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,7,7,1679108
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,0,4,1275989
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,0,5,513182
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,5,4,1429788
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,4,24,41916
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,2,6,1007048
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,0,6,817338
+2017-11-22 11:13:25,026  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,2,5,1445169
+2017-11-22 11:13:25,042 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,042  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,13,10,811493
+2017-11-22 11:13:25,042 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,042  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,7,6,1658977
+2017-11-22 11:13:25,042  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,1,2,1818356
+2017-11-22 11:13:25,042  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,7,26,1828948
+2017-11-22 11:13:25,042 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,042  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,7,1,11619
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 229,0,1,1854932
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,11,5,744031
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 211,8,8,1705416
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,0,6,1441040
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,8,19,350851
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,2,7,363629
+2017-11-22 11:13:25,058 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,11,18,1333601
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 232,11,19,1115776
+2017-11-22 11:13:25,058 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,0,13,976396
+2017-11-22 11:13:25,058  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,6,1,1750511
+2017-11-22 11:13:25,073 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,073 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,073 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,229  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,1,22,970737
+2017-11-22 11:13:25,229  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,9,9,1204235
+2017-11-22 11:13:25,229  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,13,22,924322
+2017-11-22 11:13:25,229  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,7,7,1468702
+2017-11-22 11:13:25,229  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,2,5,1958464
+2017-11-22 11:13:25,229  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,1,14,1939640
+2017-11-22 11:13:25,229  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,0,0,1890260
+2017-11-22 11:13:25,229 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,245  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,6,5,292566
+2017-11-22 11:13:25,245  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,5,0,707575
+2017-11-22 11:13:25,245 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,245  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,0,5,1693699
+2017-11-22 11:13:25,245 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,245  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,4,19,1932263
+2017-11-22 11:13:25,245  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,6,8,1389737
+2017-11-22 11:13:25,245 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,245  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,1,5,1315668
+2017-11-22 11:13:25,245  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,1,3,1859400
+2017-11-22 11:13:25,245  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,3,5,1749694
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,2,4,158527
+2017-11-22 11:13:25,261 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,12,5,1039485
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 230,0,5,1131675
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,0,21,462603
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,0,6,101936
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,2,20,1667332
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,0,10,329800
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,4,1,1236054
+2017-11-22 11:13:25,261 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,0,17,1665535
+2017-11-22 11:13:25,261  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,5,8,282093
+2017-11-22 11:13:25,261 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,276  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,2,1,590637
+2017-11-22 11:13:25,276  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,6,14,852269
+2017-11-22 11:13:25,276  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 221,2,0,500948
+2017-11-22 11:13:25,276  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,6,23,249163
+2017-11-22 11:13:25,276  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,10,11,918233
+2017-11-22 11:13:25,276 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,276  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,10,8,894820
+2017-11-22 11:13:25,276 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,276 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,276  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,9,10,1373769
+2017-11-22 11:13:25,292 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,292  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,0,5,1511203
+2017-11-22 11:13:25,292  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,4,9,274279
+2017-11-22 11:13:25,292 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,292  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 217,6,38,1014083
+2017-11-22 11:13:25,292  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,13,9,221890
+2017-11-22 11:13:25,292  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,9,38,30618
+2017-11-22 11:13:25,292 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,1,3,501250
+2017-11-22 11:13:25,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,2,8,1776994
+2017-11-22 11:13:25,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,10,25,485121
+2017-11-22 11:13:25,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,2,1,245683
+2017-11-22 11:13:25,308 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,308 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,308 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 218,4,4,301668
+2017-11-22 11:13:25,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,0,5,808237
+2017-11-22 11:13:25,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,10,16,1551884
+2017-11-22 11:13:25,308  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 224,2,14,1924074
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,7,6,823692
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 216,0,3,825161
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,13,3,1526486
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,5,0,1823293
+2017-11-22 11:13:25,323 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,11,12,165098
+2017-11-22 11:13:25,323 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,11,7,444774
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,0,13,1692517
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,5,14,1097721
+2017-11-22 11:13:25,323  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 228,8,9,1732968
+2017-11-22 11:13:25,339  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,4,14,1208029
+2017-11-22 11:13:25,339  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,8,14,275447
+2017-11-22 11:13:25,339  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,0,9,1594109
+2017-11-22 11:13:25,339  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 245,6,13,651056
+2017-11-22 11:13:25,339 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,339  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 227,13,12,1939010
+2017-11-22 11:13:25,339 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,339 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,339  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,4,5,1758261
+2017-11-22 11:13:25,354 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,354  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 225,7,0,852779
+2017-11-22 11:13:25,354  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 210,6,6,228402
+2017-11-22 11:13:25,354  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 220,7,0,1989288
+2017-11-22 11:13:25,354  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 235,9,24,594086
+2017-11-22 11:13:25,370  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 239,7,0,1251589
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 222,2,28,230445
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,4,6,1946635
+2017-11-22 11:13:25,386 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 209,3,7,1015223
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 242,8,2,884399
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 207,0,2,1795062
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 244,4,11,911895
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 208,8,14,478441
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 223,4,8,1302377
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 226,10,13,1845282
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 214,2,11,1736648
+2017-11-22 11:13:25,386  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 215,0,8,759269
+2017-11-22 11:13:25,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 219,0,5,1942571
+2017-11-22 11:13:25,401 ERROR [APIKaartController.java] - Exception bij het toevoegen
+2017-11-22 11:13:25,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 236,7,14,1396887
+2017-11-22 11:13:25,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 206,5,0,50578
+2017-11-22 11:13:25,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 233,0,8,911717
+2017-11-22 11:13:25,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 238,6,7,596927
+2017-11-22 11:13:25,401  INFO [APIKaartController.java] - Voeg kaart toe met parameters: 213,13,8,1141250
+2017-12-19 18:55:25,893  INFO [Main.java] - BiosApp wordt opgestart
+2017-12-19 18:55:27,752  INFO [BioscoopAppUI.java] - JFrame wordt voorbereid
+2017-12-19 18:55:27,768  INFO [BioscoopAppUI.java] - Componenten gegenereerd
+2017-12-19 18:55:28,221  INFO [BioscoopAppUI.java] - Start de spring server
+2017-12-19 18:55:42,284  INFO [BioscoopAppUI.java] - Open de webbrowser...
+2017-12-19 18:56:20,499  INFO [APIZalenController.java] - Verkrijg zalen op locatie: Asteria
+2017-12-19 18:56:20,512  INFO [APIZalenController.java] - Verkrijg zalen op locatie: BOZScoop
+2017-12-19 18:56:20,888  INFO [APIZalenController.java] - Verkrijg zalen op locatie: Kinepolis
+2017-12-19 18:57:30,841 DEBUG [APIVoorstellingenController.java] - Krijg voorstellinginfo van voorstelling 221
+2017-12-19 18:57:33,957  INFO [APIZalenController.java] - Verkrijg stoelen die al in gebruik zijn van voorstelling 221
+2017-12-19 18:57:34,251  INFO [KaartController.java] - Open kaart-bestellen pagina
+2017-12-19 18:57:34,251 DEBUG [KaartController.java] - Voorstelling ID: 221

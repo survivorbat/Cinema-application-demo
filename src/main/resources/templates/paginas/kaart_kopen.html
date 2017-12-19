@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://thymeleaf.org">
+<head th:replace="fragmenten/head"/>
+<body style="background-image:none;">
+<div class="row">
+    <div class="container">
+        <div class='center printbutton'>
+            <a href="javascript:window.print()">
+                <button class="btn btn-info">Afdrukken</button>
+            </a>
+            <div th:replace="fragmenten/backButton"/>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="container">
+        <div th:each="i : ${kaart}" class="kaart_block">
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="voorstelling_titel" th:text="${locatie.naam+' kaart'}"/>
+                    <p th:text="${locatie.straat+' '+locatie.huisnummer+', '+locatie.stad}"/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4">
+                    <p class="voorstelling_titel">Film:</p>
+                    <p class="voorstelling_desc" th:text="${voorstelling.film.titel}"/>
+                    <br/>
+                    <p class="voorstelling_desc">Kaartcode:</p>
+                    <p class="voorstelling_cursief" th:text="${i.code}"/>
+                </div>
+                <div class="col-md-4">
+                    <p class="voorstelling_titel">Data</p>
+                    <p class="voorstelling_titel" th:text="${voorstelling.datum+', '+voorstelling.tijd}"/>
+                </div>
+                <div class="col-md-4">
+                    <p class="voorstelling_titel">Zitplaats:</p>
+                    <p class="voorstelling_desc" th:text="${'Rij '+i.rijnummer+', stoel '+i.stoelnummer}"/>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div th:replace="fragmenten/scripts"/>
+<script src="/js/bestellen.js" th:src="@{/js/bestellen.js}"></script>
+</body>
+</html>
+
+<!--Maarten4@-->

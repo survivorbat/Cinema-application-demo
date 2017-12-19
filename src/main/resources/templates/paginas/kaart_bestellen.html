@@ -1,0 +1,120 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://thymeleaf.org">
+<head th:replace="fragmenten/head"/>
+<body>
+<div class="row">
+    <div class="container">
+        <div class="col-md-offset-2 col-sm-offset-0 col-md-8 col-sm-12 center">
+            <h1 class="header-title">Kaarten bestellen</h1>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="container">
+        <div class="col-md-offset-2 col-sm-offset-0 col-md-8 col-sm-offset-12">
+            <ul class="voorstelling_lijst">
+                <div class="voorstelling_block">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <p class="voorstelling_titel" th:text="'Kaarten bestellen voor: '+${voorstelling.film.titel}"/>
+                            <p class="voorstelling_desc" th:text="${voorstelling.film.beschrijving}"/>
+                        </div>
+                        <div class="col-md-3">
+                            <p class="voorstelling_titel" th:text="${voorstelling.film.titel}"/>
+                            <p class="voorstelling_desc" th:text="${voorstelling.film.regisseur}"/>
+                            <p class="voorstelling_desc" th:text="${voorstelling.datum}"/>
+                            <p class="voorstelling_desc" th:text="${voorstelling.tijd}"/>
+                            <p class="voorstelling_desc" th:text="'Zaal: '+${voorstelling.zaal.zaalID}"/>
+                            <p class="voorstelling_desc" th:text="'Stoelen: '+${(voorstelling.zaal.zitPlaatsen-voorstelling.zitplaatsenInGebruik)+'/'+voorstelling.zaal.zitPlaatsen}"/>
+                            <p class="voorstelling_desc" th:text="'Tarief: €'+${voorstelling.bedrag}"/>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <form action="/kaarten/kopen" method="post">
+                                <fieldset>
+                                    <legend style="color:White">Kaarten kopen</legend>
+                                    <div class="form-group">
+                                        <input type="hidden" name="voorstellingid" th:value="${voorstelling.voorstellingID}"/>
+                                        <label for="hoeveel">Aantal kaarten</label>
+                                        <input onkeyup="aantalChange()" onchange="aantalChange()" onclick="aantalChange()" th:attr="max=${voorstelling.zaal.zitPlaatsen}-${voorstelling.zitplaatsenInGebruik}" name="aantal" value="1" type="number" min="1" id="hoeveel" class="form-control" placeholder="Aantal kaarten" required="true"/>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="bedrag_calc">Totaal:</label>
+                                        <input th:attr="bedrag=${voorstelling.bedrag}" id="bedrag_calc" type="text" readonly="readonly" th:value="'€'+${voorstelling.bedrag}" class="form-control"/>
+                                    </div>
+                                </fieldset>
+                                <br/>
+                                <fieldset>
+                                    <legend style="color:white">Kies uw zitplaats(en)</legend>
+                                    <div class="formgroup">
+                                        <p>U heeft momenteel <span id="amountSelected">0</span> van de <span id="amountKaarten">1</span> kaartjes verbonden aan zitplaatsen</p>
+                                        <table class="selectSeat">
+                                            <thead>
+                                                <tr>
+                                                    <th></th>
+                                                    <th class="center voorstelling_titel" th:attr="colspan=${voorstelling.zaal.kolommen+6}">
+                                                        Achterwand
+                                                    </th>
+                                                    <th></th>
+                                                </tr>
+                                                <tr>
+                                                    <th></th>
+                                                    <th class="center" colspan="3" style="padding:5px">Ingang</th>
+                                                    <th class="center" th:each="u : ${#numbers.sequence(1, voorstelling.zaal.kolommen)}" th:text="${u}"/>
+                                                    <th class="center" colspan="3" style="padding:5px">Ingang</th>
+                                                    <th></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr th:each="i : ${#numbers.sequence(voorstelling.zaal.rijen, 1, -1)}">
+                                                    <td class="center voorstelling_desc" style="border-style:none" th:text="${i}"/>
+                                                    <td colspan="3" style="border-style:none;"/>
+                                                    <div th:each="u : ${#numbers.sequence( 1, voorstelling.zaal.kolommen)}">
+                                                        <div th:if="${zitplaatsen.contains(i+','+u)}" th:attr="title=${'Rij '+i+', Stoel '+u}">
+                                                            <td style="background-color:#500000"/>
+                                                        </div>
+                                                        <div th:unless="${zitplaatsen.contains(i+','+u)}">
+                                                            <td style="background-color:#003500" th:attr="title=${'Rij '+i+', Stoel '+u}">
+                                                                <input onchange="selectStoel(event)" name="stoelen" type="checkbox" th:value="${i+','+u}"/>
+                                                            </td>
+                                                        </div>
+                                                    </div>
+                                                    <td colspan="3" style="border-style:none"/>
+                                                    <td class="center voorstelling_desc" style="border-style:none" th:text="${i}"/>
+                                                </tr>
+                                                <tr>
+                                                    <td class="voorstelling_titel center" th:attr="colspan=${voorstelling.zaal.kolommen+8}">
+                                                        Scherm
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </fieldset>
+                                <br/>
+                                <fieldset>
+                                    <legend style="color:white">Kaarten bestellen</legend>
+                                    <div class="form-group">
+                                        <label for="PIN">PIN code:</label>
+                                        <input type="number" id="PIN" max="9999" min="0" size="4" required="required" style="color:black"/>
+                                    </div>
+                                    <div class="form-group">
+                                        <button type="submit" id="submitbutton" title="Selecteer uw aantal kaarten en uw stoelen voordat u verder gaat" class="btn btn-success" disabled="disabled">Kaarten kopen</button>
+                                    </div>
+                                </fieldset>
+                            </form>
+                            <div th:replace="fragmenten/backButton"/>
+                        </div>
+                    </div>
+                </div>
+            </ul>
+        </div>
+    </div>
+</div>
+<div th:replace="fragmenten/scripts"/>
+<script src="/js/bestellen.js" th:src="@{/js/bestellen.js}"></script>
+</body>
+</html>
+
+<!--Maarten4@-->
